@@ -1,0 +1,39 @@
+body{
+     background-image:url("..//img/rawpixel-550994-unsplash.jpg");
+     background-size:cover;
+
+}
+.btno {
+    background-color:#141414;
+    border-radius: 5px;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-family: 'Share', cursive;
+    font-size: 15px;
+}
+
+.btno:hover {
+    opacity: 1;
+}
+
+ .input-field label {
+    color: #000;
+  }
+
+#tp{
+    font-family: 'Share', cursive;
+}
+
+a{
+    font-family: 'Share', cursive;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+    color:#141414;
+}
+

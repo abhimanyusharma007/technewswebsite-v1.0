@@ -1,0 +1,45 @@
+a:link, a:visited {
+    background-color:#202124;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius:5px;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18;
+ }
+
+ .edit1{
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.10);
+    border-radius:5px;
+    margin-top: 15px;
+    width:600px;
+    height: auto;
+    overflow:auto;
+    padding: 9px;
+ }
+ h1{
+    font-size: 50px;
+    color:black;
+    margin: 20px auto;
+    width: 50%;
+    font-family: 'Share', cursive;
+}
+.nav-wrapper{
+    background-color: #202124 !important;
+
+}
+.nav{
+    margin-bottom: 10px !important;
+}
+#menu-bar{
+    background-color: #202124;
+    width: auto;
+    height: 50px;
+    margin-bottom:90px;
+    box-shadow:rgba(0, 0, 0, 0.5) 0px 2px 4px 0px;
+}

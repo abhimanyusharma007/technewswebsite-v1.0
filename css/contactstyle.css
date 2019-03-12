@@ -1,0 +1,74 @@
+#menu-bar>ul>li{
+    display: inline;
+    margin-left: 300px;
+}
+
+
+#menu-bar>ul>li>a{
+   
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    width: 10px;
+
+}
+
+#menu-bar>ul>li>a:hover{
+     color:yellowgreen;
+
+     
+}
+#menu-bar{
+    background-color: #202124;
+    width: auto;
+    height: 50px;
+    margin-bottom:10px;
+    box-shadow:rgba(0, 0, 0, 0.5) 0px 2px 4px 0px;
+}
+.tp{
+    font-family:'Righteous', cursive;
+    font-size: 50px;
+}
+#info{
+    height: 300px;
+    width: auto;
+    border:solid;
+    border-radius: 5px;
+    background-color: #202124;
+    padding: 10px;
+}
+.myinfo{
+    font-family: 'Share', cursive;
+    color: #ffffff;
+}
+#icon{
+
+    width: 500px;
+    height: 50px;
+    margin-top:10px; 
+    color: white;
+    margin-right: 20px;
+
+}
+.s{
+
+font-size: 50px;
+color: whitesmoke;
+position: relative;
+left: 50px;
+
+}
+.fa-facebook-messenger:hover{
+
+color:blue;
+
+}
+.fa-whatsapp:hover{
+color: green;
+
+}
+.fa-instagram:hover {
+color:lightcoral;
+
+}

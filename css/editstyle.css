@@ -1,0 +1,60 @@
+body{
+    background-image:url("..//img/WSW1022289.jpg");
+    background-size:cover;
+
+}
+
+#content{
+    width: auto;
+    margin: 20px auto;
+   
+}
+
+
+ form{
+     width: 50%;
+     margin: 20px auto;
+ }
+ #head1{
+     font-size: 30px;
+     color:black;
+     margin: 20px auto;
+     width: 50%;
+     font-family: 'Pattaya', sans-serif;
+ }
+ 
+ .head2{
+    color:black;
+    font-family: 'Pattaya', sans-serif;
+ }
+ #text{
+
+    border: solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+ }
+ 
+ 
+ a:link, a:visited {
+        background-color:#202124;
+        color: white;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius:5px;
+        font-family: 'Roboto', sans-serif;
+    }
+
+input[type=submit]{
+    background-color:#202124;
+        color: white;
+        padding: 5px 10px;
+        margin-top: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius:5px;
+        font-family: 'Roboto', sans-serif;
+}

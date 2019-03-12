@@ -1,0 +1,84 @@
+body{
+    background-image:url("..//img/WSW1022289.jpg");
+    background-size:cover;
+
+}
+
+#content{
+    width: auto;
+    margin: 20px auto;
+   
+}
+
+
+ form{
+     width: 50%;
+     margin: 20px auto;
+ }
+ h1{
+     font-size: 30px;
+     color:black;
+     margin: 20px auto;
+     width: 50%;
+     font-family: 'Pattaya', sans-serif;
+ }
+ #text{
+
+    border: solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+ }
+
+ p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 19;
+    
+ }
+ 
+ 
+ a:link, a:visited {
+        background-color:#202124;
+        color: white;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius:5px;
+        font-family: 'Roboto', sans-serif;
+    }
+
+input[type=submit]{
+    background-color:#202124;
+        color: white;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius:5px;
+        font-family: 'Roboto', sans-serif;
+}
+.btno {
+    position: absolute;
+    top:50px;
+    right: 50px;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 30px;
+    z-index: 1;
+    border:1px solid #202124;
+    background-color: #202124;
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+    overflow: hidden;
+    font-family: 'Share', cursive;
+    font-size: 15px;
+}
+
+.btno:hover {
+    opacity: 1;
+}

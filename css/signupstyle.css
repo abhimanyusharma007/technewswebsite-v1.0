@@ -1,0 +1,31 @@
+body{
+     background-image:url("..//img/rawpixel-550994-unsplash.jpg");
+     background-size:cover;
+
+}
+
+
+#tp{
+    font-family: 'Share', cursive;
+}
+
+.input-field label {
+    color: #000;
+  }
+
+  .btno {
+    background-color:#141414;
+    border-radius: 5px;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-family: 'Share', cursive;
+    font-size: 15px;
+}
+
+.btno:hover {
+    opacity: 1;
+}
